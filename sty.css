@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px grey;
+
+}
+.icon-bar{
+    background: darkorange;
+}
+.carousel.item{
+    height: 50%;
+    width: 100%;
+    
+}
